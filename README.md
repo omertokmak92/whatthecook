@@ -16,5 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Project template [template documentation](https://uizard.io/templates/mobile-app-templates/cooking-mobile-app/)
+
 Used APIs:
-- [Meal API ](https://uizard.io/templates/mobile-app-templates/cooking-mobile-app/)
+- [Meal API ](https://www.themealdb.com//)
